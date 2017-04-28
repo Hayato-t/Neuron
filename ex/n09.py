@@ -1,5 +1,5 @@
 #----------------------------------
-# n08.py: soma + dendrite
+# n09.py: soma + dendrite synaptic input
 #
 import os
 import copy
